@@ -1,0 +1,2 @@
+/*! For license information please see 6279.42d84857.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkukraine_sample=self.webpackChunkukraine_sample||[]).push([[6279],{6279:(e,n,s)=>{s.r(n),s.d(n,{CalciteActionMenu:()=>u,defineCustomElement:()=>t});var a=s(9185);const u=a.A,t=a.d}}]);

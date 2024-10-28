@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkukraine_sample=self.webpackChunkukraine_sample||[]).push([[1721],{61721:(e,i,u)=>{u.r(i),u.d(i,{build:()=>n.b,ribbonlineNumRoundJoinSubdivisions:()=>n.r});u(34981),u(26917),u(90080),u(3838),u(2443),u(17698),u(81993),u(36324),u(80883),u(3799),u(95756),u(58350),u(21390),u(64839),u(43425),u(32307),u(10773),u(66470),u(50125),u(46259);var n=u(14623)}}]);

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkukraine_sample=self.webpackChunkukraine_sample||[]).push([[6868],{56868:(s,e,t)=>{t.r(e),t.d(e,{deleteForwardEdits:()=>n});var i=t(3825),r=t(50076),a=t(54994);async function n(s,e,t,n){if(!e)throw new r.A("post:missing-guid","guid for version is missing");const o=(0,a.Dl)(s),u=t.toJSON(),d=(0,a.jV)(o.query,{query:(0,a.lF)({...u,f:"json"}),...n,method:"post"});e.startsWith("{")&&(e=e.slice(1,-1));const l=`${o.path}/versions/${e}/deleteForwardEdits`,{data:c}=await(0,i.A)(l,d);return c}}}]);
+//# sourceMappingURL=6868.5573fa80.chunk.js.map

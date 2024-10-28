@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkukraine_sample=self.webpackChunkukraine_sample||[]).push([[2671],{82671:(e,a,s)=>{s.r(a),s.d(a,{build:()=>u.b});s(43047),s(55855),s(95756),s(58350),s(64839),s(32307),s(70367),s(66470),s(21019);var u=s(61157)}}]);
