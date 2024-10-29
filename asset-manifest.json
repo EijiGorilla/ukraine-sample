@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ukraine-sample/static/css/main.2d5a111c.css",
-    "main.js": "/ukraine-sample/static/js/main.e8cf0899.js",
+    "main.js": "/ukraine-sample/static/js/main.8262923b.js",
     "static/js/4458.351cac74.chunk.js": "/ukraine-sample/static/js/4458.351cac74.chunk.js",
     "static/js/5977.ce9ed9e7.chunk.js": "/ukraine-sample/static/js/5977.ce9ed9e7.chunk.js",
     "static/js/5665.03678a95.chunk.js": "/ukraine-sample/static/js/5665.03678a95.chunk.js",
@@ -402,7 +402,7 @@
     "static/media/SM-Slider_TrackBackground_hover.svg": "/ukraine-sample/static/media/SM-Slider_TrackBackground_hover.5dcf34ac7d59f98735ad.svg",
     "static/media/SM-Slider_TrackBackground_idle.svg": "/ukraine-sample/static/media/SM-Slider_TrackBackground_idle.cc7bd7014a003ba1844f.svg",
     "main.2d5a111c.css.map": "/ukraine-sample/static/css/main.2d5a111c.css.map",
-    "main.e8cf0899.js.map": "/ukraine-sample/static/js/main.e8cf0899.js.map",
+    "main.8262923b.js.map": "/ukraine-sample/static/js/main.8262923b.js.map",
     "4458.351cac74.chunk.js.map": "/ukraine-sample/static/js/4458.351cac74.chunk.js.map",
     "5977.ce9ed9e7.chunk.js.map": "/ukraine-sample/static/js/5977.ce9ed9e7.chunk.js.map",
     "5665.03678a95.chunk.js.map": "/ukraine-sample/static/js/5665.03678a95.chunk.js.map",
@@ -688,6 +688,6 @@
   },
   "entrypoints": [
     "static/css/main.2d5a111c.css",
-    "static/js/main.e8cf0899.js"
+    "static/js/main.8262923b.js"
   ]
 }
