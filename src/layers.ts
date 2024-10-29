@@ -57,9 +57,9 @@ export const country_border_layer = new FeatureLayer({
 // country_border_layer.listMode = 'hide';
 
 // admin boundary - raioni with population
-// Esri color ramps - Blue 22
-// #1d3befff,#5b6da6ff,#b0c4d8ff
-const colors = ['#1d3befff', '#5b6da6ff', '#b0c4d8ff'];
+// Esri color ramps - Green 13
+// #537f1dff,#73aa30ff,#b2ff56ff
+const colors = ['#537f1dff', '#73aa30ff', '#b2ff56ff'];
 
 const boundary_pop_renderer = new SimpleRenderer({
   symbol: new SimpleFillSymbol({
